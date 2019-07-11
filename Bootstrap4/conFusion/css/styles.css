@@ -1,16 +1,16 @@
 .headercontent{
-	background-color: #ff1aff;
+	background-color:  #9575CD;
 	color:  floralwhite;
 	margin: 0px auto ;
 	padding:70px 30px 70px 30px ;	
 }
 .footercontent{
-	background-color: #ff66ff;
-	color: floralwhite;
+	background-color: #d4c8ea;
+	color: black;
 	margin: 0px auto;
 }
-.list{
-	list-style: none;
+.links{
+	color: black;
 }
 .rowcontent{
 	margin: 70px 10px 70px 10px;
@@ -18,3 +18,14 @@
 .font{
 	font-size: 120%;
 }
+.address{
+	font-size: 80%;
+	/*color: black;*/
+}
+/*.copyright{
+	color: black;
+}
+.headeraboutus{
+	padding:70px 30px 70px 30px ;
+	margin: 0px auto;
+}*/
