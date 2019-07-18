@@ -4,6 +4,9 @@
 	margin: 0px auto ;
 	padding:70px 30px 70px 30px ;	
 }
+.navbar{
+	background-color: #4e3082;
+}
 .footercontent{
 	background-color: #d4c8ea;
 	color: black;
@@ -29,3 +32,71 @@
 	padding:70px 30px 70px 30px ;
 	margin: 0px auto;
 }*/
+.fa-facebook{
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter{
+  background: #55ACEE;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+.fa-google-plus {
+  background: #dd4b39;
+  color: white;
+}
+.fa:hover{
+	opacity: 0.7;
+}
+.show{
+	display: inline-block;
+}
+.notshow{
+	display: none;
+}
+.reservetable{
+	color: white;
+}
+.tab-content{
+	border-left: solid 1px #ddd;
+	border-right: solid 1px #ddd;
+	border-bottom: solid 1px #ddd;
+	padding:10px;
+}
+.cursor{
+	cursor:pointer;
+}
+.modal-header{
+	background-color: #9575CD;
+	color: white;
+}
+.modal-body{
+	background-color: #c6b4e4;
+	color: white;
+}
+.carousel {
+    background:#512DA8;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+
+
+
